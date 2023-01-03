@@ -7,7 +7,7 @@ title = Learn Deutsch
 package.name = DUlearn
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.nivira.dulearn
+package.domain = org.nivira11.dulearn
 
 # (str) Source code where the main.py live
 source.dir = .
